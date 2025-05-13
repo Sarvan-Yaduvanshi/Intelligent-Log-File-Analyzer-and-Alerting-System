@@ -1,0 +1,13 @@
+2024-08-05 08:15:42 [INFO] Starting application version 1.2.3
+2024-08-05 08:15:43 [INFO] Loading configuration from /etc/app/config.yaml
+2024-08-05 08:15:44 [DEBUG] Configuration loaded: {"port": 8080, "debugMode": true}
+2024-08-05 08:15:45 [INFO] Connecting to database at db.example.com:5432
+2024-08-05 08:15:46 [INFO] Database connection established successfully
+2024-08-05 08:15:47 [WARN] Deprecated API method used: `getUser()`. Use `fetchUser()` instead.
+2024-08-05 08:15:48 [INFO] User 'johndoe' logged in
+2024-08-05 08:15:49 [ERROR] Failed to process request ID 1234: NullPointerException at line 56
+2024-08-05 08:15:50 [INFO] Retrying request ID 1234
+2024-08-05 08:15:51 [DEBUG] Request ID 1234: Retry attempt 1
+2024-08-05 08:15:52 [INFO] Request ID 1234 processed successfully
+2024-08-05 08:15:53 [INFO] Shutting down application
+2024-08-05 08:15:54 [INFO] Application stopped

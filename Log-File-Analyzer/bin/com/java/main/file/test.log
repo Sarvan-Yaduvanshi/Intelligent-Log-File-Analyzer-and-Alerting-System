@@ -1,0 +1,10 @@
+Starting your application....
+Connecting to database...
+SUCCESS: Connected to DB
+Fetching your modules
+WARNING: One of your module contains hard-coded values
+Application started
+SUCCESS: Fetched input from user
+WARNING: Input connection is not closed
+ERROR: You cannot enter string value for age (Line 29)
+FAILED: Your application has failed
